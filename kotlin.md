@@ -1,0 +1,4 @@
+- Kotlin design patterns - https://goo.gl/ifU6gt
+- Coroutines guid - https://goo.gl/scFJfT
+- Coroutines guid (better, RU) - https://goo.gl/scFJfT
+- Lambda's - https://goo.gl/mJUpSd
