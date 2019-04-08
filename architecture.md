@@ -1,0 +1,1 @@
+- DI in multi module app - https://bre.is/SrkqUyCJM
