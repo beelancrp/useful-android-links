@@ -1,1 +1,3 @@
 - DI in multi module app - https://bre.is/SrkqUyCJM
+- Single-Activty app (habr) - https://bre.is/8C4flyfBI
+- Single-Activty app exmpl - https://bre.is/6OCacXJeV
